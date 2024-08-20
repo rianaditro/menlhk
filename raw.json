@@ -1,0 +1,127 @@
+{
+    "draw": 1,
+    "recordsTotal": 288,
+    "recordsFiltered": 288,
+    "data": [
+        {
+            "id": 23397,
+            "nama_org": "Kementerian Lingkungan Hidup dan Kehutanan",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=23397'>Program Penurunan Emisi GRK berbasis Hutan dan Lahan Sub-Nasional Kalimantan Timur, Indonesia (FCPF)</a>",
+            "registrasi_number": "REG-11-RE-VIII-2024-23397",
+            "durasi": "67 Bulan",
+            "nama_skema": "REDD+",
+            "id_pelaku": "Pemerintah Daerah",
+            "bidang": "Forestry and Other Land Use (FOLU)",
+            "lokasi": "6472021001SAMARINDA, <br/>PROVINSI KALIMANTAN TIMUR",
+            "mitra": "-<br/>"
+        },
+        {
+            "id": 23055,
+            "nama_org": "PIAREA",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=23055'>Fourth Test Mitigasi</a>",
+            "registrasi_number": "REG-10-PR-VII-2024-23055",
+            "durasi": "1 Bulan",
+            "nama_skema": "Mitigasi Energi",
+            "id_pelaku": "Pemerintah Pusat",
+            "bidang": "Energi",
+            "lokasi": "1101010001SIMEULUE, <br/>PROVINSI ACEH",
+            "mitra": "-<br/>"
+        },
+        {
+            "id": 23045,
+            "nama_org": "PIAREA",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=23045'>test red+</a>",
+            "registrasi_number": "REG-10-RE-VII-2024-23045",
+            "durasi": "1 Bulan",
+            "nama_skema": "REDD+",
+            "id_pelaku": "Pemerintah Pusat",
+            "bidang": "Forestry and Other Land Use (FOLU)",
+            "lokasi": "1202020029MANDAILING NATAL, <br/>PROVINSI SUMATERA UTARA",
+            "mitra": "-<br/>"
+        },
+        {
+            "id": 23043,
+            "nama_org": "PIAREA",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=23043'>test main dan db baru</a>",
+            "registrasi_number": "REG-10-PR-VII-2024-23043",
+            "durasi": "1 Bulan",
+            "nama_skema": "Mitigasi Energi",
+            "id_pelaku": "Pemerintah Pusat",
+            "bidang": "Energi",
+            "lokasi": "1503010001SAROLANGUN, <br/>PROVINSI JAMBI",
+            "mitra": "-<br/>"
+        },
+        {
+            "id": 23017,
+            "nama_org": "PIAREA",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=23017'>Test Live</a>",
+            "registrasi_number": "REG-10-PR-VII-2024-23017",
+            "durasi": "1 Bulan",
+            "nama_skema": "Mitigasi Energi",
+            "id_pelaku": "Pemerintah Pusat",
+            "bidang": "Energi",
+            "lokasi": "1101010001SIMEULUE, <br/>PROVINSI ACEH",
+            "mitra": "-<br/>"
+        },
+        {
+            "id": 22893,
+            "nama_org": "PT. Cahaya Semesta Energi",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=22893'>Pengoperasian Pembangkit Listrik Tenaga Mini Hidro (PLTM) Pageruyung 1 , dengan Kapasitas (maksimal) Pembangkitan = (2 x 2,2) MW , di Kabupaten Kendal , Provinsi Jawa Tengah .</a>",
+            "registrasi_number": "REG-11-PR-VII-2024-22893",
+            "durasi": "85 Bulan",
+            "nama_skema": "Mitigasi Energi",
+            "id_pelaku": "Dunia Usaha",
+            "bidang": "Energi",
+            "lokasi": "Dusun Getas Kulon / RW 04, 3324030002KENDAL, <br/>PROVINSI JAWA TENGAH",
+            "mitra": "-<br/>"
+        },
+        {
+            "id": 22495,
+            "nama_org": "PT CHEIL JEDANG INDONESIA PASURUAN",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=22495'>Aksi Efisiensi Energi di Sektor Industri melalui Recovery Condenser Heat Pump untuk menaikkan temperatur Feed Water Boiler</a>",
+            "registrasi_number": "REG-11-PR-VI-2024-22495",
+            "durasi": "84 Bulan",
+            "nama_skema": "Mitigasi Energi",
+            "id_pelaku": "Dunia Usaha",
+            "bidang": "Energi",
+            "lokasi": "RT04/RW02, 3514200005PASURUAN, <br/>PROVINSI JAWA TIMUR",
+            "mitra": "-<br/>"
+        },
+        {
+            "id": 22454,
+            "nama_org": "PT PLN Indonesia Power",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=22454'>Konversi Dari Pembangkit Single Cycle Menjadi Combined Cycle (Add On) PLTGU Grati Blok 2</a>",
+            "registrasi_number": "REG-11-PR-VI-2024-22454",
+            "durasi": "84 Bulan",
+            "nama_skema": "Mitigasi Energi",
+            "id_pelaku": "Dunia Usaha",
+            "bidang": "Energi",
+            "lokasi": "Dusun Pasir Panjang , 3514230010PASURUAN, <br/>PROVINSI JAWA TIMUR",
+            "mitra": "-<br/>"
+        },
+        {
+            "id": 21438,
+            "nama_org": "Kementerian Perindustrian",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=21438'>Penurunan Rasio Clinker di Industri Pupuk</a>",
+            "registrasi_number": "REG-10-PR-V-2024-21438",
+            "durasi": "29 Bulan",
+            "nama_skema": "Mitigasi IPPU",
+            "id_pelaku": "Pemerintah Pusat",
+            "bidang": "Proses Industri dan Penggunaan Produk (IPPU)",
+            "lokasi": "3171100002JAKARTA SELATAN, <br/>PROVINSI DKI JAKARTA",
+            "mitra": "-<br/>"
+        },
+        {
+            "id": 20755,
+            "nama_org": "PT PLN Nusantara Power PLTMG Sumbagut 2 Peaker",
+            "nama": "<a href='/index.php?r=home%2Faksi&id=20755'>Pengoperasian Pembangkit Listrik Baru Berbahan Bakar Gas Bumi PLTMG Sumbagut 2 Peaker 250 MW</a>",
+            "registrasi_number": "REG-10-PR-VI-2024-20755",
+            "durasi": "240 Bulan",
+            "nama_skema": "Mitigasi Energi",
+            "id_pelaku": "Dunia Usaha",
+            "bidang": "Energi",
+            "lokasi": "Lhokseumawe / Muara Satu / Meuriah Paloh, 1174021005LHOKSEUMAWE, <br/>PROVINSI ACEH",
+            "mitra": "-<br/>"
+        }
+    ]
+}
